@@ -10,19 +10,15 @@ This project was created to practice important React concepts such as **useState
 
 ### 🏏 Counter App
 
-![Cricket Counter App](<img width="732" height="616" alt="image" src="https://github.com/user-attachments/assets/6b9ca647-9688-48a0-83ed-c27b4d622353" />
-)
+<img width="732" height="616" alt="Counter App" src="https://github.com/user-attachments/assets/6b9ca647-9688-48a0-83ed-c27b4d622353" />
 
 ### 🏆 MS Dhoni Milestone
 
-![MS Dhoni](<img width="677" height="607" alt="image" src="https://github.com/user-attachments/assets/36231964-f5a1-4133-94bd-14898b605177" />
-)
+<img width="677" height="607" alt="MS Dhoni Milestone" src="https://github.com/user-attachments/assets/36231964-f5a1-4133-94bd-14898b605177" />
 
 ### 👑 Virat Kohli Milestone
 
-![Virat Kohli](<img width="682" height="627" alt="image" src="https://github.com/user-attachments/assets/9910d1c9-7d11-4fc1-bba0-0148d9f91cc0" />
-)
-
+<img width="682" height="627" alt="Virat Kohli Milestone" src="https://github.com/user-attachments/assets/9910d1c9-7d11-4fc1-bba0-0148d9f91cc0" />
 ---
 
 ## 🚀 Features
